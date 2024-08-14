@@ -33,7 +33,7 @@ namespace Wolt.API
     {
         public static void Main(string[] args)
         {
-
+            //test for branches
             var builder = WebApplication.CreateBuilder(args);
 
             builder.Services.AddControllers();
